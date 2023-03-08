@@ -12,19 +12,6 @@ from rich.columns import Columns as col
 from rich import print as rprint
 from rich import pretty
 from rich.text import Text as tekz
-#input("\n\x1b[1;93m[\x1b[1;92m+\x1b[1;93m]\x1b[1;93m╰─>\x1b[1;92mMASUKKAN PASSWORD LOGIN SCRIPT \33[m[ \x1b[1;92mENTER \33[m]")
-#Password = "SEMOGA DAPAT BANG" 
-
-#print("\x1b[1;93m[\x1b[1;92m+\x1b[1;93m]\x1b[1;93m╰─>\x1b[1;92mUntuk Password Login Anda Bisa Download Di Samping Ini \x1b[1;93mhttps://sfile.mobi/rq0xWgJAYg7")
-#loop = 'true'
-#while (loop == 'true'):
- #   passcode = input("\x1b[1;93m[\x1b[1;92m?\x1b[1;93m]\x1b[1;93m╰─>\x1b[1;92mMASUKAN PASSWORD LOGIN > \x1b[1;93m")
-  #  if (passcode == Password):
-   #         loop = 'false'
-    #        print("\x1b[1;93m[\x1b[1;92m!\x1b[1;93m]\x1b[1;93m╰─>\x1b[1;92mLOADING LASSWORD... ")
-     #       print("\x1b[1;93m[\x1b[1;92m+\x1b[1;93m]\x1b[1;93m╰─>\x1b[1;92mPASSWORD YANG ANDA MASUKKAN BENAR")          
-   # else:
-    #        exit("\x1b[1;93m[\x1b[1;92m?\x1b[1;93m]\x1b[1;93m╰─>\x1b[1;91mPASSWORD YANG ANDA MASUKKAN SALAH (X)")
 pretty.install()
 CON=sol() 
 user_agent=['Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.45 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/345.0.0.34.118;]','Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/198.0.0.53.101;]','Mozilla/5.0 (Linux; Android 12; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 12; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 12; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 12; SM-N960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 12; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 12; LM-X420) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G780G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 12; LM-Q710(FGN)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36']
